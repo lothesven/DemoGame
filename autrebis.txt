@@ -1,1 +1,2 @@
 Ceci est un texte créé sur GitHub qui sera appelé depuis Git
+Il vient d'être modifié sur Git et sera envoyé sur GitHub
